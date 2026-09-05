@@ -6,7 +6,6 @@ This is the production-ready fullstack application optimized for GoDaddy Direct 
 
 - **Frontend:** React 19 with TypeScript, Vite, Tailwind CSS
 - **Backend:** Express.js with Node.js/TypeScript
-- **Database:** Firebase Firestore (via Admin SDK)
 - **Build Tool:** Vite + esbuild
 - **Authentication:** Role-based access control (RBAC)
 
