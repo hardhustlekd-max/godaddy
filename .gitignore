@@ -1,0 +1,1 @@
+node_modules/\ndist/\n.env\n.env.local\n.env.*.local\n*.log\n.DS_Store\n.vscode/\n.idea/\n*.swp\n*.swo\nbun.lock\npackage-lock.json\n.vercel\n.next\nout/\nbuild/\n.turbo/\n*.tgz\n
